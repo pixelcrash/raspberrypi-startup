@@ -8,6 +8,6 @@ Standard routine to setup my raspberryPi
 ## Enable SSH
 1. open terminal
 2. cd into the SD card
-'cd /Volumes/boot'
-3. create at ssh file to enable ssh
-'touch ssh'
+3. cd /Volumes/boot
+4. create at ssh file to enable ssh
+5. touch ssh
