@@ -42,6 +42,6 @@ write_enable=YES
 local_umask=022
 chroot_local_user=YES
 user_sub_token=$USER
-local_root=/
+local_root=/ 
 
 sudo service vsftpd restart
